@@ -1,5 +1,3 @@
-# Azure-Synapse-Analytics_End_to_End
-
 
 # Azure Databricks & Synapse Analytics End-to-End Pipeline
 
