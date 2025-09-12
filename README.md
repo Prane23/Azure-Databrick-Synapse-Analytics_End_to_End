@@ -28,5 +28,6 @@ The pipeline includes:
 - <img width="1317" height="823" alt="image" src="https://github.com/user-attachments/assets/372aa6fc-9587-4015-acb7-edf4a6075278" />
 
 
-## 📂 Folder Structure
+## 🧩 Architecture Diagram
 
+![Archtecture Diagram](https://github.com/user-attachments/assets/3afdf77a-da9e-43c6-9542-b7c9b9f221af)
