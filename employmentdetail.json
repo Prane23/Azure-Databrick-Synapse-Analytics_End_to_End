@@ -11,18 +11,6 @@
     "skipManager": "John Smith",
     "status": "Active",
     "hireDate": "2022-06-15",
-    "skills": ["Python", "Azure", "Power BI", "SQL"],
-    "projects": [
-      {
-        "projectId": "PJT1001",
-        "projectName": "Fabric Integration",
-        "role": "Lead Developer"
-      },
-      {
-        "projectId": "PJT1002",
-        "projectName": "Data Lake Optimization",
-        "role": "Contributor"
-      }
-    ]
+    "skills": ["Python", "Azure", "Power BI", "SQL"]    
   }
 }
