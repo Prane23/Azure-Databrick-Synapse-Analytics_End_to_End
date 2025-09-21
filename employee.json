@@ -1,6 +1,6 @@
 {
   "employee": {
-    "employeeId": "2025",
+    "employeeId": 2025,
     "firstName": "Prashant",
     "lastName": "Rane",
     "email": "prashant.rane@hotmail.com",
