@@ -1,6 +1,6 @@
 {
   "employmentdetail": {
-    "employeeId": 2025,
+    "employeeId": "EMP12345",
     "companyName": "ABC Inc.",
     "jobTitle": "Software Engineer",
     "department": "Engineering",
